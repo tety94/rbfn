@@ -8,7 +8,7 @@ from sklearn.preprocessing import normalize
 import os
 
 # internal classes
-from RBFNClass import RBFN
+from ClassRBFN import RBFN
 from Validator import Validator
 from ClassCSVUtils import CSVUtils
 from Constants import Constants

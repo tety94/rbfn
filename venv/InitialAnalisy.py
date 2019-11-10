@@ -1,5 +1,5 @@
 from ClassDataSetAnalyzer import DataSetAnalyzer
-from RBFNClass import RBFN
+from ClassRBFN import RBFN
 from ClassCSVUtils import CSVUtils
 
 import os
