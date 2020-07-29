@@ -1,6 +1,6 @@
 # rbfn
 
-rbfn is a set of python classes builded to help with data filtration using RBFN (Radial Basis Function Network) for a real and monodimensionaly signal.
+rbfn is a set of python classes built to help with data filtration using RBFN (Radial Basis Function Network) for a real and monodimensionaly signal.
 You can:
   - Calculate and store RBFN weigths
   - Plot and store trained and tested data
